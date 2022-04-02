@@ -1,1 +1,1 @@
-web: gunicorn app:prathyegam
+web: gunicorn prathyegam:app
