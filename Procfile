@@ -1,1 +1,1 @@
-web: gunicorn prathyegam:app
+web: gunicorn prathyegam:app --timeout 100
