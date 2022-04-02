@@ -1,1 +1,1 @@
-web: gunicorn prathyegam:app --timeout 10
+web: gunicorn prathyegam:app --timeout 10 --preload
